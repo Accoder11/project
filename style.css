@@ -61,7 +61,7 @@ p {
 
 
 }
-.hover-box1:hover{
+.hover-box1:hover, .image:hover{
 
         transform: translateY(-20px);
 }
@@ -75,10 +75,6 @@ p {
     background-repeat: no-repeat;
     border-radius: 120px;
    
-    
-    
-   
-
     transition: all ease 0.2s;
     box-shadow: -16px 26px 45px -16px rgba(0,0,0,0.53);
     -webkit-box-shadow: -16px 26px 45px -16px rgba(0,0,0,0.53);
